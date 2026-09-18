@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&family=Work+Sans:wght@400;500;600&display=swap');
+
+@theme {
+  --color-brand-black: #0B0D10;
+  --color-brand-blue: #1DA1E8;
+  --color-brand-red: #D62828;
+  --font-display: 'Sora', sans-serif;
+  --font-body: 'Work Sans', sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+}
