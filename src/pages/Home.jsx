@@ -7,6 +7,14 @@ import schoolHealth from '../assets/school-health.jpg'
 import schoolHospitality from '../assets/school-hospitality.jpg'
 import schoolEducation from '../assets/school-education.jpg'
 import schoolVocational from '../assets/school-vocational.jpg'
+import president from '../assets/president.jpg'
+import eventDefense from '../assets/event-defense.jpg'
+import eventYouthDay from '../assets/event-youth-day.jpg'
+import eventFreshmen from '../assets/event-freshmen.jpg'
+import eventCulturalDay from '../assets/event-cultural-day.jpg'
+import eventVolunteerDay from '../assets/event-volunteer-day.jpg'
+import logoMinesup from '../assets/logo-minesup.png'
+import logoDouala from '../assets/logo-university-of-douala.png'
 
 const slides = [
   { src: campusBuilding, caption: 'Our campus at Mile 2, Limbe' },
@@ -55,6 +63,19 @@ function HeroSlideshow() {
     </div>
   )
 }
+
+const events = [
+  { src: eventDefense, titleKey: 'home.event1Title', fallback: '2025 MBA & Bachelor Defense' },
+  { src: eventYouthDay, titleKey: 'home.event2Title', fallback: 'Youth Day' },
+  { src: eventFreshmen, titleKey: 'home.event3Title', fallback: 'Welcome Freshmen' },
+  { src: eventCulturalDay, titleKey: 'home.event4Title', fallback: 'Cultural Day' },
+  { src: eventVolunteerDay, titleKey: 'home.event5Title', fallback: 'Volunteerism Day' },
+]
+
+const partners = [
+  { src: logoDouala, name: 'University of Douala' },
+  { src: logoMinesup, name: 'MINESUP' },
+]
 
 function Home() {
   const { t } = useTranslation()
@@ -120,6 +141,107 @@ function Home() {
         <div>
           <h3 className="font-display font-semibold text-lg text-gray-800 mb-2">{t('home.why3Title')}</h3>
           <p className="text-gray-600 text-sm">{t('home.why3Body')}</p>
+        </div>
+      </section>
+
+      {/* Message from the President */}
+      <section className="bg-brand-black py-16 px-6">
+        <div className="max-w-5xl mx-auto grid md:grid-cols-5 gap-10 items-start">
+          <div className="md:col-span-2">
+            <img
+              src={president}
+              alt="Pr. Njomo Louis Mosake"
+              style={{ objectPosition: '45% 20%' }}
+              className="w-full aspect-[4/5] object-cover rounded-xl border border-white/10"
+            />
+          </div>
+          <div className="md:col-span-3">
+            <p className="text-brand-blue text-xs font-semibold tracking-widest uppercase mb-3">
+              {t('home.presidentLabel', 'Message from the President')}
+            </p>
+            <div className="text-gray-300 leading-relaxed space-y-4 mb-6">
+              <p>
+                {t(
+                  'home.presidentP1',
+                  'Welcome to the website of the Kazek University Institute of Technology and Management, a special place nestled in the seaside city of Limbe. At Kazek you will have the opportunity to study alongside world-class professors and at the same time enjoy the fabulous natural position of the city, situated between the rainforest-swathed foothills of Mt Cameroon and the dramatic Atlantic coastline. Whether you are pursuing a certificate, Diploma, Bachelor or Master degree, we invite you to be part of our distinctive community.'
+                )}
+              </p>
+              <p>
+                {t(
+                  'home.presidentP2',
+                  'We invite you to take a look around our new website to get to know about Kazek University. As you explore our website you will discover that we believe in developing you for lifelong learning and a career that is purpose-driven and meaningful. You will find a wealth of information about our programs, certifications, student services, facilities and activities.'
+                )}
+              </p>
+              <p>
+                {t(
+                  'home.presidentP3',
+                  'We hope you will find our website not only informative but also easy to navigate.'
+                )}
+              </p>
+              <p>
+                {t(
+                  'home.presidentP4',
+                  'We invite you to visit our campus and meet us in person. We welcome the chance to share with you how becoming a member of the Kazek learning community can help you prepare for all your future endeavors.'
+                )}
+              </p>
+            </div>
+            <p className="font-display font-semibold text-white">
+              {t('home.presidentName', 'Pr. Njomo Louis Mosake')}
+            </p>
+            <p className="text-gray-400 text-sm">
+              {t('home.presidentRole', 'President, Kazek University')}
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Campus Life */}
+      <section className="bg-white py-16 px-6">
+        <div className="max-w-5xl mx-auto">
+          <div className="text-center mb-10">
+            <p className="text-brand-blue text-xs font-semibold tracking-widest uppercase mb-3">
+              {t('home.campusLabel', 'Campus Life')}
+            </p>
+            <h2 className="font-display text-2xl font-bold text-gray-800">
+              {t('home.campusTitle', 'Life at Kazek')}
+            </h2>
+          </div>
+
+          <div className="grid sm:grid-cols-2 md:grid-cols-5 gap-4">
+            {events.map((event) => (
+              <div key={event.titleKey} className="rounded-xl overflow-hidden border border-gray-200 bg-white">
+                <img
+                  src={event.src}
+                  alt={t(event.titleKey, event.fallback)}
+                  className="w-full h-40 object-cover"
+                />
+                <div className="p-3">
+                  <h3 className="font-display font-semibold text-sm text-gray-800">
+                    {t(event.titleKey, event.fallback)}
+                  </h3>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Partner logos */}
+      <section className="bg-gray-50 py-14 px-6 border-t border-gray-200">
+        <div className="max-w-5xl mx-auto text-center">
+          <p className="text-brand-blue text-xs font-semibold tracking-widest uppercase mb-8">
+            {t('home.partnersLabel', 'Mentored & Accredited By')}
+          </p>
+          <div className="flex flex-wrap items-center justify-center gap-12">
+            {partners.map((partner) => (
+              <img
+                key={partner.name}
+                src={partner.src}
+                alt={partner.name}
+                className="h-20 w-20 object-contain rounded-full bg-white border border-gray-200 shadow-sm p-1"
+              />
+            ))}
+          </div>
         </div>
       </section>
 

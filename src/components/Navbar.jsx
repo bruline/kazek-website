@@ -24,6 +24,12 @@ function Navbar() {
           <Link to="/" className="text-sm font-medium text-gray-300 hover:text-white">{t('nav.home')}</Link>
           <Link to="/schools" className="text-sm font-medium text-gray-300 hover:text-white">{t('nav.schools')}</Link>
           <Link to="/admissions" className="text-sm font-medium text-gray-300 hover:text-white">{t('nav.admissions')}</Link>
+          <Link to="/student-login" className="text-sm font-medium text-gray-300 hover:text-white">
+            {t('nav.studentLogin', 'Student Login')}
+          </Link>
+          <Link to="/admin-login" className="text-sm font-medium text-gray-300 hover:text-white">
+            {t('nav.adminLogin', 'Admin Login')}
+          </Link>
           <button
             onClick={toggleLanguage}
             className="border border-white/20 rounded-md px-3 py-1.5 text-xs text-gray-300 hover:border-brand-blue hover:text-white"
@@ -54,6 +60,12 @@ function Navbar() {
           <Link to="/" className="py-2 text-gray-300" onClick={() => setMenuOpen(false)}>{t('nav.home')}</Link>
           <Link to="/schools" className="py-2 text-gray-300" onClick={() => setMenuOpen(false)}>{t('nav.schools')}</Link>
           <Link to="/admissions" className="py-2 text-gray-300" onClick={() => setMenuOpen(false)}>{t('nav.admissions')}</Link>
+          <Link to="/student-login" className="py-2 text-gray-300" onClick={() => setMenuOpen(false)}>
+            {t('nav.studentLogin', 'Student Login')}
+          </Link>
+          <Link to="/admin-login" className="py-2 text-gray-300" onClick={() => setMenuOpen(false)}>
+            {t('nav.adminLogin', 'Admin Login')}
+          </Link>
           <Link
             to="/apply"
             className="bg-brand-red text-white px-4 py-2 rounded-md text-center mt-2 font-semibold"
