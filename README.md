@@ -1,16 +1,18 @@
-# React + Vite
+# Kazek University website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Public website of the Kazek University Institute of Technology and Management
+(React + Vite + Tailwind CSS, hosted on Vercel).
 
-Currently, two official plugins are available:
+- Design follows the reference layout chosen by the school (ESSEC Douala style).
+- English / French (src/i18n/en.json, fr.json).
+- Programmes, fees and admission dates come live from the Kazek portal's public
+  feed (`/api/public/...`). A saved copy in `src/data/` is shown if the portal
+  cannot be reached.
+- "Apply" and "Portal" buttons go to the portal (src/config.js). Set
+  `VITE_PORTAL_URL` in Vercel if the portal address changes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev      # local preview at http://localhost:5173
+npm run build    # production build in dist/
+```

@@ -1,84 +1,40 @@
-import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import { supabase } from '../lib/supabase'
+import campusBuilding from '../assets/campus-building.jpg'
+import Icon from '../components/Icon'
+import { PageHero } from '../components/Section'
+import { awardShort, usePortalData, pick } from '../lib/portal'
 
-function Schools() {
+export default function Schools() {
   const { t, i18n } = useTranslation()
-  const isFr = i18n.language === 'fr'
-
-  const [schools, setSchools] = useState([]) // [{ en, fr }]
-  const [loading, setLoading] = useState(true)
-
-  useEffect(() => {
-    async function fetchSchools() {
-      const { data, error } = await supabase
-        .from('programs')
-        .select('school_name, school_name_fr')
-
-      if (error) {
-        console.error('Error fetching schools:', error)
-        setLoading(false)
-        return
-      }
-
-      const seen = new Map()
-      for (const row of data) {
-        if (!seen.has(row.school_name)) {
-          seen.set(row.school_name, row.school_name_fr || row.school_name)
-        }
-      }
-      setSchools([...seen.entries()].map(([en, fr]) => ({ en, fr })))
-      setLoading(false)
-    }
-
-    fetchSchools()
-  }, [])
-
-  if (loading) {
-    return <p className="text-center py-20 text-gray-500">Loading schools...</p>
-  }
-
-  if (schools.length === 0) {
-    return (
-      <p className="text-center py-20 text-gray-500">
-        No schools found yet — this page will show data once the programs
-        table has been filled in.
-      </p>
-    )
-  }
+  const isFr = i18n.language.startsWith('fr')
+  const { data } = usePortalData('programmes')
+  const schools = data?.schools ?? []
 
   return (
-    <div>
-      <section className="bg-brand-black py-16 px-6 text-center">
-        <p className="text-brand-blue text-xs font-semibold tracking-widest uppercase mb-3">
-          {isFr ? 'Académique' : 'Academics'}
-        </p>
-        <h1 className="font-display text-3xl md:text-4xl font-bold text-white">
-          {isFr ? 'Nos Écoles' : 'Our Schools'}
-        </h1>
-      </section>
-
-      <div className="max-w-6xl mx-auto px-6 py-16">
-        <div className="grid md:grid-cols-2 gap-6">
-          {schools.map((school) => (
-            <Link
-              key={school.en}
-              to={`/schools/${encodeURIComponent(school.en)}`}
-              className="block bg-white border border-gray-200 rounded-lg p-6 shadow-sm hover:shadow-md hover:border-brand-blue transition"
-            >
-              <h2 className="font-display text-xl font-semibold text-gray-800">
-                {isFr ? school.fr : school.en}
-              </h2>
-              <p className="text-brand-red mt-2 text-sm font-medium">
-                {isFr ? 'Voir les programmes →' : 'View programs →'}
-              </p>
-            </Link>
-          ))}
+    <>
+      <PageHero kicker={t('schools.kicker')} title={t('schools.title')} intro={t('schools.intro')} background={campusBuilding} />
+      <section className="bg-slate-50 py-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 grid md:grid-cols-2 gap-6">
+          {schools.map((school, i) => {
+            const awards = [...new Set(school.programmes.map((p) => awardShort(p.award, isFr)))]
+            return (
+              <Link key={school.code} to={`/schools/${school.code}`}
+                className="group flex gap-6 rounded-2xl border border-slate-200 bg-white p-8 hover:border-brand-700 hover:shadow-lg transition">
+                <span className="font-display font-bold text-5xl text-brand-100 group-hover:text-brand-700/25">{String(i + 1).padStart(2, '0')}</span>
+                <div>
+                  <p className="font-display font-bold text-xl text-brand-700">{school.code}</p>
+                  <h2 className="font-display font-bold text-2xl text-navy-950 leading-tight">{pick(isFr, school.name, school.name_fr)}</h2>
+                  <p className="mt-3 text-slate-500">{t('home.programmeCount', { count: school.programmes.length })} · {awards.join(' · ')}</p>
+                  <p className="mt-4 inline-flex items-center gap-2 text-brand-700 font-bold">
+                    {t('schools.viewProgrammes')} <Icon name="arrow" className="w-4 h-4" />
+                  </p>
+                </div>
+              </Link>
+            )
+          })}
         </div>
-      </div>
-    </div>
+      </section>
+    </>
   )
 }
-
-export default Schools

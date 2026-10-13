@@ -1,0 +1,2985 @@
+{
+ "schools": [
+  {
+   "code": "GSBM",
+   "name": "Graduate School of Business and Management",
+   "name_fr": "École Supérieure de Commerce et de Management (MBA)",
+   "programmes": [
+    {
+     "code": "GSBM-MBA-ACC",
+     "name": "Accountancy",
+     "name_fr": "Comptabilité",
+     "display_name": "Master of Business Administration (MBA) – Accountancy",
+     "award": {
+      "code": "MBA",
+      "name": "Master of Business Administration (MBA)",
+      "name_fr": "Master en Administration des Affaires (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "GSBM-MBA-BANFIN",
+     "name": "Banking and Finance",
+     "name_fr": "Banque et Finance",
+     "display_name": "Master of Business Administration (MBA) – Banking and Finance",
+     "award": {
+      "code": "MBA",
+      "name": "Master of Business Administration (MBA)",
+      "name_fr": "Master en Administration des Affaires (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "GSBM-MBA-BUSMAN",
+     "name": "Business Management",
+     "name_fr": "Gestion d'Entreprise",
+     "display_name": "Master of Business Administration (MBA) – Business Management",
+     "award": {
+      "code": "MBA",
+      "name": "Master of Business Administration (MBA)",
+      "name_fr": "Master en Administration des Affaires (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "GSBM-MBA-HUMRESMAN",
+     "name": "Human Resource Management",
+     "name_fr": "Gestion des Ressources Humaines",
+     "display_name": "Master of Business Administration (MBA) – Human Resource Management",
+     "award": {
+      "code": "MBA",
+      "name": "Master of Business Administration (MBA)",
+      "name_fr": "Master en Administration des Affaires (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "GSBM-MBA-INFSYSMAN",
+     "name": "Information Systems Management",
+     "name_fr": "Gestion des Systèmes d'Information",
+     "display_name": "Master of Business Administration (MBA) – Information Systems Management",
+     "award": {
+      "code": "MBA",
+      "name": "Master of Business Administration (MBA)",
+      "name_fr": "Master en Administration des Affaires (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "GSBM-MBA-INS",
+     "name": "Insurance",
+     "name_fr": "Assurance",
+     "display_name": "Master of Business Administration (MBA) – Insurance",
+     "award": {
+      "code": "MBA",
+      "name": "Master of Business Administration (MBA)",
+      "name_fr": "Master en Administration des Affaires (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "GSBM-MBA-LOGTRAMAN",
+     "name": "Logistics and Transport Management",
+     "name_fr": "Logistique et Gestion des Transports",
+     "display_name": "Master of Business Administration (MBA) – Logistics and Transport Management",
+     "award": {
+      "code": "MBA",
+      "name": "Master of Business Administration (MBA)",
+      "name_fr": "Master en Administration des Affaires (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "GSBM-MBA-MAR",
+     "name": "Marketing",
+     "name_fr": "Marketing",
+     "display_name": "Master of Business Administration (MBA) – Marketing",
+     "award": {
+      "code": "MBA",
+      "name": "Master of Business Administration (MBA)",
+      "name_fr": "Master en Administration des Affaires (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "GSBM-MBA-PORSHIMAN",
+     "name": "Ports and Shipping Management",
+     "name_fr": "Gestion Portuaire et Maritime",
+     "display_name": "Master of Business Administration (MBA) – Ports and Shipping Management",
+     "award": {
+      "code": "MBA",
+      "name": "Master of Business Administration (MBA)",
+      "name_fr": "Master en Administration des Affaires (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "GSBM-MBA-PUBADM",
+     "name": "Public Administration",
+     "name_fr": "Administration Publique",
+     "display_name": "Master of Business Administration (MBA) – Public Administration",
+     "award": {
+      "code": "MBA",
+      "name": "Master of Business Administration (MBA)",
+      "name_fr": "Master en Administration des Affaires (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "SBMS",
+   "name": "School of Business and Management Sciences",
+   "name_fr": "École de Commerce et des Sciences de Gestion",
+   "programmes": [
+    {
+     "code": "SBMS-BSC_BUS-ACC",
+     "name": "Accountancy",
+     "name_fr": "Comptabilité",
+     "display_name": "Bachelor of Business Science (BSc) – Accountancy",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-BSC_BUS-BANFIN",
+     "name": "Banking and Finance",
+     "name_fr": "Banque et Finance",
+     "display_name": "Bachelor of Business Science (BSc) – Banking and Finance",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-BSC_BUS-BUSMAN",
+     "name": "Business Management",
+     "name_fr": "Gestion d'Entreprise",
+     "display_name": "Bachelor of Business Science (BSc) – Business Management",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-BSC_BUS-HOTMAN",
+     "name": "Hotel Management",
+     "name_fr": "Gestion Hôtelière",
+     "display_name": "Bachelor of Business Science (BSc) – Hotel Management",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-BSC_BUS-HUMRESMAN",
+     "name": "Human Resource Management",
+     "name_fr": "Gestion des Ressources Humaines",
+     "display_name": "Bachelor of Business Science (BSc) – Human Resource Management",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-BSC_BUS-INFSYSMAN",
+     "name": "Information Systems Management",
+     "name_fr": "Gestion des Systèmes d'Information",
+     "display_name": "Bachelor of Business Science (BSc) – Information Systems Management",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-BSC_BUS-INS",
+     "name": "Insurance",
+     "name_fr": "Assurance",
+     "display_name": "Bachelor of Business Science (BSc) – Insurance",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-BSC_BUS-LOGTRAMAN",
+     "name": "Logistics and Transport Management",
+     "name_fr": "Logistique et Gestion des Transports",
+     "display_name": "Bachelor of Business Science (BSc) – Logistics and Transport Management",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-BSC_BUS-MAR",
+     "name": "Marketing",
+     "name_fr": "Marketing",
+     "display_name": "Bachelor of Business Science (BSc) – Marketing",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-BSC_BUS-PORSHIMAN",
+     "name": "Ports and Shipping Management",
+     "name_fr": "Gestion Portuaire et Maritime",
+     "display_name": "Bachelor of Business Science (BSc) – Ports and Shipping Management",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-BSC_BUS-PUBADM",
+     "name": "Public Administration",
+     "name_fr": "Administration Publique",
+     "display_name": "Bachelor of Business Science (BSc) – Public Administration",
+     "award": {
+      "code": "BSC_BUS",
+      "name": "Bachelor of Business Science (BSc)",
+      "name_fr": "Licence en Sciences de Gestion (BSc)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-HND-ACC",
+     "name": "Accountancy",
+     "name_fr": "Comptabilité",
+     "display_name": "Higher National Diploma (HND) – Accountancy",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-HND-ASSMAN",
+     "name": "Assistant Management",
+     "name_fr": "Assistanat de Direction",
+     "display_name": "Higher National Diploma (HND) – Assistant Management",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-HND-BANFIN",
+     "name": "Banking and Finance",
+     "name_fr": "Banque et Finance",
+     "display_name": "Higher National Diploma (HND) – Banking and Finance",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-HND-HOTMAN",
+     "name": "Hotel Management",
+     "name_fr": "Gestion Hôtelière",
+     "display_name": "Higher National Diploma (HND) – Hotel Management",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-HND-HUMRESMAN",
+     "name": "Human Resource Management",
+     "name_fr": "Gestion des Ressources Humaines",
+     "display_name": "Higher National Diploma (HND) – Human Resource Management",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-HND-INFSYSMAN",
+     "name": "Information Systems Management",
+     "name_fr": "Gestion des Systèmes d'Information",
+     "display_name": "Higher National Diploma (HND) – Information Systems Management",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-HND-INS",
+     "name": "Insurance",
+     "name_fr": "Assurance",
+     "display_name": "Higher National Diploma (HND) – Insurance",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-HND-LOGTRAMAN",
+     "name": "Logistics and Transport Management",
+     "name_fr": "Logistique et Gestion des Transports",
+     "display_name": "Higher National Diploma (HND) – Logistics and Transport Management",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-HND-MAR",
+     "name": "Marketing",
+     "name_fr": "Marketing",
+     "display_name": "Higher National Diploma (HND) – Marketing",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SBMS-HND-PORSHIMAN",
+     "name": "Ports and Shipping Management",
+     "name_fr": "Gestion Portuaire et Maritime",
+     "display_name": "Higher National Diploma (HND) – Ports and Shipping Management",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "SOE",
+   "name": "School of Education",
+   "name_fr": "École d'Éducation",
+   "programmes": [
+    {
+     "code": "SOE-BED-DIDCURDEV",
+     "name": "Didactics, Curriculum Development and Teaching",
+     "name_fr": "Didactique, Développement de Curriculum et Enseignement",
+     "display_name": "Bachelor of Education (BEd) – Didactics, Curriculum Development and Teaching",
+     "award": {
+      "code": "BED",
+      "name": "Bachelor of Education (BEd)",
+      "name_fr": "Licence en Éducation (BEd)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SOE-BED-EDUMAN",
+     "name": "Education Management",
+     "name_fr": "Gestion de l'Éducation",
+     "display_name": "Bachelor of Education (BEd) – Education Management",
+     "award": {
+      "code": "BED",
+      "name": "Bachelor of Education (BEd)",
+      "name_fr": "Licence en Éducation (BEd)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SOE-BED-SPEEDU",
+     "name": "Special Education",
+     "name_fr": "Éducation Spécialisée",
+     "display_name": "Bachelor of Education (BEd) – Special Education",
+     "award": {
+      "code": "BED",
+      "name": "Bachelor of Education (BEd)",
+      "name_fr": "Licence en Éducation (BEd)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SOE-BED-VOCGUICOU",
+     "name": "Vocational Guidance and Counselling",
+     "name_fr": "Orientation et Conseil Professionnel",
+     "display_name": "Bachelor of Education (BEd) – Vocational Guidance and Counselling",
+     "award": {
+      "code": "BED",
+      "name": "Bachelor of Education (BEd)",
+      "name_fr": "Licence en Éducation (BEd)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SOE-HND-DIDCURDEV",
+     "name": "Didactics, Curriculum Development and Teaching",
+     "name_fr": "Didactique, Développement de Curriculum et Enseignement",
+     "display_name": "Higher National Diploma (HND) – Didactics, Curriculum Development and Teaching",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SOE-HND-EDUMAN",
+     "name": "Education Management",
+     "name_fr": "Gestion de l'Éducation",
+     "display_name": "Higher National Diploma (HND) – Education Management",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SOE-HND-SPEEDU",
+     "name": "Special Education",
+     "name_fr": "Éducation Spécialisée",
+     "display_name": "Higher National Diploma (HND) – Special Education",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SOE-HND-VOCGUICOU",
+     "name": "Vocational Guidance and Counselling",
+     "name_fr": "Orientation et Conseil Professionnel",
+     "display_name": "Higher National Diploma (HND) – Vocational Guidance and Counselling",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "SET",
+   "name": "School of Engineering Technology",
+   "name_fr": "École de Technologie et d'Ingénierie",
+   "programmes": [
+    {
+     "code": "SET-BTECH-CHEENG",
+     "name": "Chemical Engineering",
+     "name_fr": "Génie Chimique",
+     "display_name": "Bachelor of Technology (BTech) – Chemical Engineering",
+     "award": {
+      "code": "BTECH",
+      "name": "Bachelor of Technology (BTech)",
+      "name_fr": "Licence en Technologie (BTech)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-BTECH-CIVENG",
+     "name": "Civil Engineering",
+     "name_fr": "Génie Civil",
+     "display_name": "Bachelor of Technology (BTech) – Civil Engineering",
+     "award": {
+      "code": "BTECH",
+      "name": "Bachelor of Technology (BTech)",
+      "name_fr": "Licence en Technologie (BTech)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-BTECH-COMENG",
+     "name": "Computer Engineering (Software)",
+     "name_fr": "Génie Informatique (Logiciel)",
+     "display_name": "Bachelor of Technology (BTech) – Computer Engineering (Software)",
+     "award": {
+      "code": "BTECH",
+      "name": "Bachelor of Technology (BTech)",
+      "name_fr": "Licence en Technologie (BTech)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-BTECH-ELEENG",
+     "name": "Electrical Engineering",
+     "name_fr": "Génie Électrique",
+     "display_name": "Bachelor of Technology (BTech) – Electrical Engineering",
+     "award": {
+      "code": "BTECH",
+      "name": "Bachelor of Technology (BTech)",
+      "name_fr": "Licence en Technologie (BTech)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-BTECH-MECENG",
+     "name": "Mechanical Engineering",
+     "name_fr": "Génie Mécanique",
+     "display_name": "Bachelor of Technology (BTech) – Mechanical Engineering",
+     "award": {
+      "code": "BTECH",
+      "name": "Bachelor of Technology (BTech)",
+      "name_fr": "Licence en Technologie (BTech)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-BTECH-PETENG",
+     "name": "Petroleum Engineering",
+     "name_fr": "Génie Pétrolier",
+     "display_name": "Bachelor of Technology (BTech) – Petroleum Engineering",
+     "award": {
+      "code": "BTECH",
+      "name": "Bachelor of Technology (BTech)",
+      "name_fr": "Licence en Technologie (BTech)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-HND-CHEENG",
+     "name": "Chemical Engineering",
+     "name_fr": "Génie Chimique",
+     "display_name": "Higher National Diploma (HND) – Chemical Engineering",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-HND-CIVENG",
+     "name": "Civil Engineering",
+     "name_fr": "Génie Civil",
+     "display_name": "Higher National Diploma (HND) – Civil Engineering",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-HND-COMENG",
+     "name": "Computer Engineering (Software)",
+     "name_fr": "Génie Informatique (Logiciel)",
+     "display_name": "Higher National Diploma (HND) – Computer Engineering (Software)",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-HND-ELEENG",
+     "name": "Electrical Engineering",
+     "name_fr": "Génie Électrique",
+     "display_name": "Higher National Diploma (HND) – Electrical Engineering",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-HND-MECENG",
+     "name": "Mechanical Engineering",
+     "name_fr": "Génie Mécanique",
+     "display_name": "Higher National Diploma (HND) – Mechanical Engineering",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SET-HND-PETENG",
+     "name": "Petroleum Engineering",
+     "name_fr": "Génie Pétrolier",
+     "display_name": "Higher National Diploma (HND) – Petroleum Engineering",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 2,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "SHBS",
+   "name": "School of Health and Biomedical Sciences",
+   "name_fr": "École des Sciences de la Santé et Biomédicales",
+   "programmes": [
+    {
+     "code": "SHBS-BSC-LABTEC",
+     "name": "Laboratory Technician",
+     "name_fr": "Technicien de Laboratoire",
+     "display_name": "Bachelor of Science (BSc) – Laboratory Technician",
+     "award": {
+      "code": "BSC",
+      "name": "Bachelor of Science (BSc)",
+      "name_fr": "Licence en Sciences",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 4,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SHBS-BSC-MID",
+     "name": "Midwifery",
+     "name_fr": "Sage-Femme",
+     "display_name": "Bachelor of Science (BSc) – Midwifery",
+     "award": {
+      "code": "BSC",
+      "name": "Bachelor of Science (BSc)",
+      "name_fr": "Licence en Sciences",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 4,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SHBS-BSC-NUR",
+     "name": "Nursing",
+     "name_fr": "Soins Infirmiers",
+     "display_name": "Bachelor of Science (BSc) – Nursing",
+     "award": {
+      "code": "BSC",
+      "name": "Bachelor of Science (BSc)",
+      "name_fr": "Licence en Sciences",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 4,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SHBS-BSC-PHA",
+     "name": "Pharmacy",
+     "name_fr": "Pharmacie",
+     "display_name": "Bachelor of Science (BSc) – Pharmacy",
+     "award": {
+      "code": "BSC",
+      "name": "Bachelor of Science (BSc)",
+      "name_fr": "Licence en Sciences",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 4,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SHBS-HND-LABTEC",
+     "name": "Laboratory Technician",
+     "name_fr": "Technicien de Laboratoire",
+     "display_name": "Higher National Diploma (HND) – Laboratory Technician",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SHBS-HND-MID",
+     "name": "Midwifery",
+     "name_fr": "Sage-Femme",
+     "display_name": "Higher National Diploma (HND) – Midwifery",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SHBS-HND-NUR",
+     "name": "Nursing",
+     "name_fr": "Soins Infirmiers",
+     "display_name": "Higher National Diploma (HND) – Nursing",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "SHBS-HND-PHA",
+     "name": "Pharmacy",
+     "name_fr": "Pharmacie",
+     "display_name": "Higher National Diploma (HND) – Pharmacy",
+     "award": {
+      "code": "HND",
+      "name": "Higher National Diploma (HND)",
+      "name_fr": "Brevet de Technicien Supérieur (BTS)",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ESCG",
+   "name": "École Supérieure de Commerce et de Gestion",
+   "name_fr": "École Supérieure de Commerce et de Gestion",
+   "programmes": [
+    {
+     "code": "ESCG-LIC_PRO-ACC",
+     "name": "Accounting",
+     "name_fr": "Comptabilité",
+     "display_name": "Professional Licence (Licence Professionnelle) – Accounting",
+     "award": {
+      "code": "LIC_PRO",
+      "name": "Professional Licence (Licence Professionnelle)",
+      "name_fr": "Licence Professionnelle",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-LIC_PRO-BAN",
+     "name": "Banking",
+     "name_fr": "Banque",
+     "display_name": "Professional Licence (Licence Professionnelle) – Banking",
+     "award": {
+      "code": "LIC_PRO",
+      "name": "Professional Licence (Licence Professionnelle)",
+      "name_fr": "Licence Professionnelle",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-LIC_PRO-BUSMAN",
+     "name": "Business Management",
+     "name_fr": "Gestion d'entreprise",
+     "display_name": "Professional Licence (Licence Professionnelle) – Business Management",
+     "award": {
+      "code": "LIC_PRO",
+      "name": "Professional Licence (Licence Professionnelle)",
+      "name_fr": "Licence Professionnelle",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-LIC_PRO-FIN",
+     "name": "Finance",
+     "name_fr": "Finance",
+     "display_name": "Professional Licence (Licence Professionnelle) – Finance",
+     "award": {
+      "code": "LIC_PRO",
+      "name": "Professional Licence (Licence Professionnelle)",
+      "name_fr": "Licence Professionnelle",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-LIC_PRO-HUMRES",
+     "name": "Human Resources",
+     "name_fr": "Ressources Humaines",
+     "display_name": "Professional Licence (Licence Professionnelle) – Human Resources",
+     "award": {
+      "code": "LIC_PRO",
+      "name": "Professional Licence (Licence Professionnelle)",
+      "name_fr": "Licence Professionnelle",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-LIC_PRO-INFSYSMAN",
+     "name": "Information Systems Management",
+     "name_fr": "Management de system d'information",
+     "display_name": "Professional Licence (Licence Professionnelle) – Information Systems Management",
+     "award": {
+      "code": "LIC_PRO",
+      "name": "Professional Licence (Licence Professionnelle)",
+      "name_fr": "Licence Professionnelle",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-LIC_PRO-INS",
+     "name": "Insurance",
+     "name_fr": "Assurance",
+     "display_name": "Professional Licence (Licence Professionnelle) – Insurance",
+     "award": {
+      "code": "LIC_PRO",
+      "name": "Professional Licence (Licence Professionnelle)",
+      "name_fr": "Licence Professionnelle",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-LIC_PRO-LOGTRA",
+     "name": "Logistics and Transport",
+     "name_fr": "Logistique et Transport",
+     "display_name": "Professional Licence (Licence Professionnelle) – Logistics and Transport",
+     "award": {
+      "code": "LIC_PRO",
+      "name": "Professional Licence (Licence Professionnelle)",
+      "name_fr": "Licence Professionnelle",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-LIC_PRO-MARCOM",
+     "name": "Marketing and Commerce",
+     "name_fr": "Marketing et Commerce",
+     "display_name": "Professional Licence (Licence Professionnelle) – Marketing and Commerce",
+     "award": {
+      "code": "LIC_PRO",
+      "name": "Professional Licence (Licence Professionnelle)",
+      "name_fr": "Licence Professionnelle",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-LIC_PRO-PUBADM",
+     "name": "Public Administration",
+     "name_fr": "Administration Publique",
+     "display_name": "Professional Licence (Licence Professionnelle) – Public Administration",
+     "award": {
+      "code": "LIC_PRO",
+      "name": "Professional Licence (Licence Professionnelle)",
+      "name_fr": "Licence Professionnelle",
+      "level": "UNDERGRADUATE"
+     },
+     "duration_years": 3,
+     "top_up_duration_years": 1,
+     "study_modes": [
+      {
+       "code": "DAY",
+       "name": "Day",
+       "name_fr": "Journée"
+      },
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "DAY_EVENING",
+       "name": "Day and Evening",
+       "name_fr": "Journée et Soirée"
+      },
+      {
+       "code": "WEEKEND",
+       "name": "Weekend",
+       "name_fr": "Weekend"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-MASTER_PRO-ACC",
+     "name": "Accounting",
+     "name_fr": "Comptabilité",
+     "display_name": "Professional Master (MBA) – Accounting",
+     "award": {
+      "code": "MASTER_PRO",
+      "name": "Professional Master (MBA)",
+      "name_fr": "Master Professionnel (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-MASTER_PRO-BAN",
+     "name": "Banking",
+     "name_fr": "Banque",
+     "display_name": "Professional Master (MBA) – Banking",
+     "award": {
+      "code": "MASTER_PRO",
+      "name": "Professional Master (MBA)",
+      "name_fr": "Master Professionnel (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-MASTER_PRO-BUSMAN",
+     "name": "Business Management",
+     "name_fr": "Gestion d'entreprise",
+     "display_name": "Professional Master (MBA) – Business Management",
+     "award": {
+      "code": "MASTER_PRO",
+      "name": "Professional Master (MBA)",
+      "name_fr": "Master Professionnel (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-MASTER_PRO-FIN",
+     "name": "Finance",
+     "name_fr": "Finance",
+     "display_name": "Professional Master (MBA) – Finance",
+     "award": {
+      "code": "MASTER_PRO",
+      "name": "Professional Master (MBA)",
+      "name_fr": "Master Professionnel (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-MASTER_PRO-HUMRES",
+     "name": "Human Resources",
+     "name_fr": "Ressources Humaines",
+     "display_name": "Professional Master (MBA) – Human Resources",
+     "award": {
+      "code": "MASTER_PRO",
+      "name": "Professional Master (MBA)",
+      "name_fr": "Master Professionnel (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-MASTER_PRO-INFSYSMAN",
+     "name": "Information Systems Management",
+     "name_fr": "Management de system d'information",
+     "display_name": "Professional Master (MBA) – Information Systems Management",
+     "award": {
+      "code": "MASTER_PRO",
+      "name": "Professional Master (MBA)",
+      "name_fr": "Master Professionnel (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-MASTER_PRO-INS",
+     "name": "Insurance",
+     "name_fr": "Assurance",
+     "display_name": "Professional Master (MBA) – Insurance",
+     "award": {
+      "code": "MASTER_PRO",
+      "name": "Professional Master (MBA)",
+      "name_fr": "Master Professionnel (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-MASTER_PRO-LOGTRA",
+     "name": "Logistics and Transport",
+     "name_fr": "Logistique et Transport",
+     "display_name": "Professional Master (MBA) – Logistics and Transport",
+     "award": {
+      "code": "MASTER_PRO",
+      "name": "Professional Master (MBA)",
+      "name_fr": "Master Professionnel (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-MASTER_PRO-MARCOM",
+     "name": "Marketing and Commerce",
+     "name_fr": "Marketing et Commerce",
+     "display_name": "Professional Master (MBA) – Marketing and Commerce",
+     "award": {
+      "code": "MASTER_PRO",
+      "name": "Professional Master (MBA)",
+      "name_fr": "Master Professionnel (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    },
+    {
+     "code": "ESCG-MASTER_PRO-PUBADM",
+     "name": "Public Administration",
+     "name_fr": "Administration Publique",
+     "display_name": "Professional Master (MBA) – Public Administration",
+     "award": {
+      "code": "MASTER_PRO",
+      "name": "Professional Master (MBA)",
+      "name_fr": "Master Professionnel (MBA)",
+      "level": "POSTGRADUATE"
+     },
+     "duration_years": 1,
+     "top_up_duration_years": null,
+     "study_modes": [
+      {
+       "code": "EVENING",
+       "name": "Evening",
+       "name_fr": "Soirée"
+      },
+      {
+       "code": "ONLINE",
+       "name": "Online",
+       "name_fr": "En ligne"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

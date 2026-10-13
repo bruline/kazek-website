@@ -1,14 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600;700&family=Tinos:ital,wght@0,400;0,700;1,400&display=swap');
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&family=Work+Sans:wght@400;500;600&display=swap');
 
+/* Colours and fonts matched to the reference design (ESSEC Douala). */
 @theme {
-  --color-brand-black: #0B0D10;
-  --color-brand-blue: #1DA1E8;
-  --color-brand-red: #D62828;
-  --font-display: 'Sora', sans-serif;
-  --font-body: 'Work Sans', sans-serif;
+  --color-navy-950: #0b1a3d;   /* top information bar and footer */
+  --color-navy-900: #10234f;
+  --color-brand-700: #1e40af;  /* main blue: buttons, hero, headings accents */
+  --color-brand-600: #2348c4;
+  --color-brand-500: #2563eb;  /* small section labels */
+  --color-brand-100: #dbe5ff;  /* big pale numbers on cards */
+  --color-brand-50: #eef3ff;   /* icon tiles */
+  --color-accent-orange: #ea580c;
+  --color-accent-green: #059669;
+  --color-accent-gold: #f5b301;
+  --font-display: 'Rajdhani', 'Arial Narrow', sans-serif;
+  --font-body: 'Tinos', 'Times New Roman', Georgia, serif;
 }
 
 body {
   font-family: var(--font-body);
+  color: #1f2937;
+  background: #ffffff;
+}
+
+/* Small uppercase label above section titles. */
+.kicker {
+  font-family: var(--font-body);
+  color: var(--color-brand-500);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
 }

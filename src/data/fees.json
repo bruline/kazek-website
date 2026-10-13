@@ -1,0 +1,5099 @@
+{
+ "academic_year": "2026/2027",
+ "currency": "FCFA",
+ "programmes": [
+  {
+   "programme_code": "GSBM-MBA-ACC",
+   "programme": "Master of Business Administration (MBA) – Accountancy",
+   "school": "Graduate School of Business and Management",
+   "award": {
+    "code": "MBA",
+    "name": "Master of Business Administration (MBA)",
+    "name_fr": "Master en Administration des Affaires (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 150000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 164000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "GSBM-MBA-BANFIN",
+   "programme": "Master of Business Administration (MBA) – Banking and Finance",
+   "school": "Graduate School of Business and Management",
+   "award": {
+    "code": "MBA",
+    "name": "Master of Business Administration (MBA)",
+    "name_fr": "Master en Administration des Affaires (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 150000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 164000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "GSBM-MBA-BUSMAN",
+   "programme": "Master of Business Administration (MBA) – Business Management",
+   "school": "Graduate School of Business and Management",
+   "award": {
+    "code": "MBA",
+    "name": "Master of Business Administration (MBA)",
+    "name_fr": "Master en Administration des Affaires (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 150000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 164000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "GSBM-MBA-HUMRESMAN",
+   "programme": "Master of Business Administration (MBA) – Human Resource Management",
+   "school": "Graduate School of Business and Management",
+   "award": {
+    "code": "MBA",
+    "name": "Master of Business Administration (MBA)",
+    "name_fr": "Master en Administration des Affaires (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 150000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 164000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "GSBM-MBA-INFSYSMAN",
+   "programme": "Master of Business Administration (MBA) – Information Systems Management",
+   "school": "Graduate School of Business and Management",
+   "award": {
+    "code": "MBA",
+    "name": "Master of Business Administration (MBA)",
+    "name_fr": "Master en Administration des Affaires (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 150000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 164000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "GSBM-MBA-INS",
+   "programme": "Master of Business Administration (MBA) – Insurance",
+   "school": "Graduate School of Business and Management",
+   "award": {
+    "code": "MBA",
+    "name": "Master of Business Administration (MBA)",
+    "name_fr": "Master en Administration des Affaires (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 150000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 164000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "GSBM-MBA-LOGTRAMAN",
+   "programme": "Master of Business Administration (MBA) – Logistics and Transport Management",
+   "school": "Graduate School of Business and Management",
+   "award": {
+    "code": "MBA",
+    "name": "Master of Business Administration (MBA)",
+    "name_fr": "Master en Administration des Affaires (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 150000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 164000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "GSBM-MBA-MAR",
+   "programme": "Master of Business Administration (MBA) – Marketing",
+   "school": "Graduate School of Business and Management",
+   "award": {
+    "code": "MBA",
+    "name": "Master of Business Administration (MBA)",
+    "name_fr": "Master en Administration des Affaires (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 150000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 164000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "GSBM-MBA-PORSHIMAN",
+   "programme": "Master of Business Administration (MBA) – Ports and Shipping Management",
+   "school": "Graduate School of Business and Management",
+   "award": {
+    "code": "MBA",
+    "name": "Master of Business Administration (MBA)",
+    "name_fr": "Master en Administration des Affaires (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 150000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 164000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "GSBM-MBA-PUBADM",
+   "programme": "Master of Business Administration (MBA) – Public Administration",
+   "school": "Graduate School of Business and Management",
+   "award": {
+    "code": "MBA",
+    "name": "Master of Business Administration (MBA)",
+    "name_fr": "Master en Administration des Affaires (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 150000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 164000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-ACC",
+   "programme": "Bachelor of Business Science (BSc) – Accountancy",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-BANFIN",
+   "programme": "Bachelor of Business Science (BSc) – Banking and Finance",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-BUSMAN",
+   "programme": "Bachelor of Business Science (BSc) – Business Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-HOTMAN",
+   "programme": "Bachelor of Business Science (BSc) – Hotel Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-HUMRESMAN",
+   "programme": "Bachelor of Business Science (BSc) – Human Resource Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-INFSYSMAN",
+   "programme": "Bachelor of Business Science (BSc) – Information Systems Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-INS",
+   "programme": "Bachelor of Business Science (BSc) – Insurance",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-LOGTRAMAN",
+   "programme": "Bachelor of Business Science (BSc) – Logistics and Transport Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-MAR",
+   "programme": "Bachelor of Business Science (BSc) – Marketing",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-PORSHIMAN",
+   "programme": "Bachelor of Business Science (BSc) – Ports and Shipping Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-BSC_BUS-PUBADM",
+   "programme": "Bachelor of Business Science (BSc) – Public Administration",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "BSC_BUS",
+    "name": "Bachelor of Business Science (BSc)",
+    "name_fr": "Licence en Sciences de Gestion (BSc)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-HND-ACC",
+   "programme": "Higher National Diploma (HND) – Accountancy",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-HND-ASSMAN",
+   "programme": "Higher National Diploma (HND) – Assistant Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-HND-BANFIN",
+   "programme": "Higher National Diploma (HND) – Banking and Finance",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-HND-HOTMAN",
+   "programme": "Higher National Diploma (HND) – Hotel Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-HND-HUMRESMAN",
+   "programme": "Higher National Diploma (HND) – Human Resource Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-HND-INFSYSMAN",
+   "programme": "Higher National Diploma (HND) – Information Systems Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-HND-INS",
+   "programme": "Higher National Diploma (HND) – Insurance",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-HND-LOGTRAMAN",
+   "programme": "Higher National Diploma (HND) – Logistics and Transport Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-HND-MAR",
+   "programme": "Higher National Diploma (HND) – Marketing",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SBMS-HND-PORSHIMAN",
+   "programme": "Higher National Diploma (HND) – Ports and Shipping Management",
+   "school": "School of Business and Management Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SOE-BED-DIDCURDEV",
+   "programme": "Bachelor of Education (BEd) – Didactics, Curriculum Development and Teaching",
+   "school": "School of Education",
+   "award": {
+    "code": "BED",
+    "name": "Bachelor of Education (BEd)",
+    "name_fr": "Licence en Éducation (BEd)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SOE-BED-EDUMAN",
+   "programme": "Bachelor of Education (BEd) – Education Management",
+   "school": "School of Education",
+   "award": {
+    "code": "BED",
+    "name": "Bachelor of Education (BEd)",
+    "name_fr": "Licence en Éducation (BEd)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SOE-BED-SPEEDU",
+   "programme": "Bachelor of Education (BEd) – Special Education",
+   "school": "School of Education",
+   "award": {
+    "code": "BED",
+    "name": "Bachelor of Education (BEd)",
+    "name_fr": "Licence en Éducation (BEd)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SOE-BED-VOCGUICOU",
+   "programme": "Bachelor of Education (BEd) – Vocational Guidance and Counselling",
+   "school": "School of Education",
+   "award": {
+    "code": "BED",
+    "name": "Bachelor of Education (BEd)",
+    "name_fr": "Licence en Éducation (BEd)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SOE-HND-DIDCURDEV",
+   "programme": "Higher National Diploma (HND) – Didactics, Curriculum Development and Teaching",
+   "school": "School of Education",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SOE-HND-EDUMAN",
+   "programme": "Higher National Diploma (HND) – Education Management",
+   "school": "School of Education",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SOE-HND-SPEEDU",
+   "programme": "Higher National Diploma (HND) – Special Education",
+   "school": "School of Education",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SOE-HND-VOCGUICOU",
+   "programme": "Higher National Diploma (HND) – Vocational Guidance and Counselling",
+   "school": "School of Education",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 250000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 279500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-BTECH-CHEENG",
+   "programme": "Bachelor of Technology (BTech) – Chemical Engineering",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "BTECH",
+    "name": "Bachelor of Technology (BTech)",
+    "name_fr": "Licence en Technologie (BTech)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-BTECH-CIVENG",
+   "programme": "Bachelor of Technology (BTech) – Civil Engineering",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "BTECH",
+    "name": "Bachelor of Technology (BTech)",
+    "name_fr": "Licence en Technologie (BTech)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-BTECH-COMENG",
+   "programme": "Bachelor of Technology (BTech) – Computer Engineering (Software)",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "BTECH",
+    "name": "Bachelor of Technology (BTech)",
+    "name_fr": "Licence en Technologie (BTech)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-BTECH-ELEENG",
+   "programme": "Bachelor of Technology (BTech) – Electrical Engineering",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "BTECH",
+    "name": "Bachelor of Technology (BTech)",
+    "name_fr": "Licence en Technologie (BTech)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-BTECH-MECENG",
+   "programme": "Bachelor of Technology (BTech) – Mechanical Engineering",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "BTECH",
+    "name": "Bachelor of Technology (BTech)",
+    "name_fr": "Licence en Technologie (BTech)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-BTECH-PETENG",
+   "programme": "Bachelor of Technology (BTech) – Petroleum Engineering",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "BTECH",
+    "name": "Bachelor of Technology (BTech)",
+    "name_fr": "Licence en Technologie (BTech)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 350000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 382000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 32000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-HND-CHEENG",
+   "programme": "Higher National Diploma (HND) – Chemical Engineering",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 300000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 329500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-HND-CIVENG",
+   "programme": "Higher National Diploma (HND) – Civil Engineering",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 300000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 329500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-HND-COMENG",
+   "programme": "Higher National Diploma (HND) – Computer Engineering (Software)",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 300000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 329500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-HND-ELEENG",
+   "programme": "Higher National Diploma (HND) – Electrical Engineering",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 300000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 329500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-HND-MECENG",
+   "programme": "Higher National Diploma (HND) – Mechanical Engineering",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 300000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 329500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SET-HND-PETENG",
+   "programme": "Higher National Diploma (HND) – Petroleum Engineering",
+   "school": "School of Engineering Technology",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 300000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 329500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 100000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SHBS-BSC-LABTEC",
+   "programme": "Bachelor of Science (BSc) – Laboratory Technician",
+   "school": "School of Health and Biomedical Sciences",
+   "award": {
+    "code": "BSC",
+    "name": "Bachelor of Science (BSc)",
+    "name_fr": "Licence en Sciences",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SHBS-BSC-MID",
+   "programme": "Bachelor of Science (BSc) – Midwifery",
+   "school": "School of Health and Biomedical Sciences",
+   "award": {
+    "code": "BSC",
+    "name": "Bachelor of Science (BSc)",
+    "name_fr": "Licence en Sciences",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SHBS-BSC-NUR",
+   "programme": "Bachelor of Science (BSc) – Nursing",
+   "school": "School of Health and Biomedical Sciences",
+   "award": {
+    "code": "BSC",
+    "name": "Bachelor of Science (BSc)",
+    "name_fr": "Licence en Sciences",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SHBS-BSC-PHA",
+   "programme": "Bachelor of Science (BSc) – Pharmacy",
+   "school": "School of Health and Biomedical Sciences",
+   "award": {
+    "code": "BSC",
+    "name": "Bachelor of Science (BSc)",
+    "name_fr": "Licence en Sciences",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SHBS-HND-LABTEC",
+   "programme": "Higher National Diploma (HND) – Laboratory Technician",
+   "school": "School of Health and Biomedical Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 300000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 329500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SHBS-HND-MID",
+   "programme": "Higher National Diploma (HND) – Midwifery",
+   "school": "School of Health and Biomedical Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 300000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 329500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SHBS-HND-NUR",
+   "programme": "Higher National Diploma (HND) – Nursing",
+   "school": "School of Health and Biomedical Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 300000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 329500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "SHBS-HND-PHA",
+   "programme": "Higher National Diploma (HND) – Pharmacy",
+   "school": "School of Health and Biomedical Sciences",
+   "award": {
+    "code": "HND",
+    "name": "Higher National Diploma (HND)",
+    "name_fr": "Brevet de Technicien Supérieur (BTS)",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 10000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 300000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 2500
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 329500,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 100000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 29500,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-LIC_PRO-ACC",
+   "programme": "Professional Licence (Licence Professionnelle) – Accounting",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "LIC_PRO",
+    "name": "Professional Licence (Licence Professionnelle)",
+    "name_fr": "Licence Professionnelle",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-LIC_PRO-BAN",
+   "programme": "Professional Licence (Licence Professionnelle) – Banking",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "LIC_PRO",
+    "name": "Professional Licence (Licence Professionnelle)",
+    "name_fr": "Licence Professionnelle",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-LIC_PRO-BUSMAN",
+   "programme": "Professional Licence (Licence Professionnelle) – Business Management",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "LIC_PRO",
+    "name": "Professional Licence (Licence Professionnelle)",
+    "name_fr": "Licence Professionnelle",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-LIC_PRO-FIN",
+   "programme": "Professional Licence (Licence Professionnelle) – Finance",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "LIC_PRO",
+    "name": "Professional Licence (Licence Professionnelle)",
+    "name_fr": "Licence Professionnelle",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-LIC_PRO-HUMRES",
+   "programme": "Professional Licence (Licence Professionnelle) – Human Resources",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "LIC_PRO",
+    "name": "Professional Licence (Licence Professionnelle)",
+    "name_fr": "Licence Professionnelle",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-LIC_PRO-INFSYSMAN",
+   "programme": "Professional Licence (Licence Professionnelle) – Information Systems Management",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "LIC_PRO",
+    "name": "Professional Licence (Licence Professionnelle)",
+    "name_fr": "Licence Professionnelle",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-LIC_PRO-INS",
+   "programme": "Professional Licence (Licence Professionnelle) – Insurance",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "LIC_PRO",
+    "name": "Professional Licence (Licence Professionnelle)",
+    "name_fr": "Licence Professionnelle",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-LIC_PRO-LOGTRA",
+   "programme": "Professional Licence (Licence Professionnelle) – Logistics and Transport",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "LIC_PRO",
+    "name": "Professional Licence (Licence Professionnelle)",
+    "name_fr": "Licence Professionnelle",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-LIC_PRO-MARCOM",
+   "programme": "Professional Licence (Licence Professionnelle) – Marketing and Commerce",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "LIC_PRO",
+    "name": "Professional Licence (Licence Professionnelle)",
+    "name_fr": "Licence Professionnelle",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-LIC_PRO-PUBADM",
+   "programme": "Professional Licence (Licence Professionnelle) – Public Administration",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "LIC_PRO",
+    "name": "Professional Licence (Licence Professionnelle)",
+    "name_fr": "Licence Professionnelle",
+    "level": "UNDERGRADUATE"
+   },
+   "application_fee": 15000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 400000
+    },
+    {
+     "name": "Official uniform",
+     "name_fr": "Tenue professionnelle",
+     "amount": 12000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Sports uniform",
+     "name_fr": "Tenue de sport",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 432000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 50000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 150000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 150000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 82000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-MASTER_PRO-ACC",
+   "programme": "Professional Master (MBA) – Accounting",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "MASTER_PRO",
+    "name": "Professional Master (MBA)",
+    "name_fr": "Master Professionnel (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 200000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 114000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-MASTER_PRO-BAN",
+   "programme": "Professional Master (MBA) – Banking",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "MASTER_PRO",
+    "name": "Professional Master (MBA)",
+    "name_fr": "Master Professionnel (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 200000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 114000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-MASTER_PRO-BUSMAN",
+   "programme": "Professional Master (MBA) – Business Management",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "MASTER_PRO",
+    "name": "Professional Master (MBA)",
+    "name_fr": "Master Professionnel (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 200000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 114000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-MASTER_PRO-FIN",
+   "programme": "Professional Master (MBA) – Finance",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "MASTER_PRO",
+    "name": "Professional Master (MBA)",
+    "name_fr": "Master Professionnel (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 200000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 114000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-MASTER_PRO-HUMRES",
+   "programme": "Professional Master (MBA) – Human Resources",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "MASTER_PRO",
+    "name": "Professional Master (MBA)",
+    "name_fr": "Master Professionnel (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 200000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 114000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-MASTER_PRO-INFSYSMAN",
+   "programme": "Professional Master (MBA) – Information Systems Management",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "MASTER_PRO",
+    "name": "Professional Master (MBA)",
+    "name_fr": "Master Professionnel (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 200000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 114000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-MASTER_PRO-INS",
+   "programme": "Professional Master (MBA) – Insurance",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "MASTER_PRO",
+    "name": "Professional Master (MBA)",
+    "name_fr": "Master Professionnel (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 200000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 114000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-MASTER_PRO-LOGTRA",
+   "programme": "Professional Master (MBA) – Logistics and Transport",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "MASTER_PRO",
+    "name": "Professional Master (MBA)",
+    "name_fr": "Master Professionnel (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 200000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 114000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-MASTER_PRO-MARCOM",
+   "programme": "Professional Master (MBA) – Marketing and Commerce",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "MASTER_PRO",
+    "name": "Professional Master (MBA)",
+    "name_fr": "Master Professionnel (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 200000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 114000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  },
+  {
+   "programme_code": "ESCG-MASTER_PRO-PUBADM",
+   "programme": "Professional Master (MBA) – Public Administration",
+   "school": "École Supérieure de Commerce et de Gestion",
+   "award": {
+    "code": "MASTER_PRO",
+    "name": "Professional Master (MBA)",
+    "name_fr": "Master Professionnel (MBA)",
+    "level": "POSTGRADUATE"
+   },
+   "application_fee": 20000,
+   "items": [
+    {
+     "name": "Tuition fee",
+     "name_fr": "Frais de scolarité",
+     "amount": 800000
+    },
+    {
+     "name": "Corporate T-shirt",
+     "name_fr": "T-shirt",
+     "amount": 6000
+    },
+    {
+     "name": "Student union",
+     "name_fr": "Association d'étudiants",
+     "amount": 5000
+    },
+    {
+     "name": "Student ID card",
+     "name_fr": "Carte étudiante",
+     "amount": 3000
+    }
+   ],
+   "total": 814000,
+   "installments": [
+    {
+     "label": "Registration",
+     "amount": 200000,
+     "due_date": "2026-10-31"
+    },
+    {
+     "label": "1st installment",
+     "amount": 250000,
+     "due_date": "2026-11-30"
+    },
+    {
+     "label": "2nd installment",
+     "amount": 250000,
+     "due_date": "2027-01-31"
+    },
+    {
+     "label": "3rd installment",
+     "amount": 114000,
+     "due_date": "2027-03-31"
+    }
+   ]
+  }
+ ]
+}

@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Secrets and local settings: never commit
+.env
+.env.*
+!.env.example
